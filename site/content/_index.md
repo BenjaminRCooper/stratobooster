@@ -7,14 +7,30 @@ header:
     altitude balloons
 whyBalloon:
   heading: Why a Balloon?
-  reasons: []
+  reasons:
+    - reasonImage: /img/reason-1.svg
+      reasonText: The Balloon lifts the rocket to **32km** altitude
+    - reasonImage: /img/reason-2.svg
+      reasonText: This is above **99%** of the earth's atmosphere
+    - reasonImage: /img/reason-3.svg
+      reasonText: Less air density means less **thrust** required for the rocket
+    - reasonImage: /img/reason-4.svg
+      reasonText: Only a small rocket is required resulting in smaller operating **costs**
+    - reasonImage: /img/reason-5.svg
+      reasonText: \*\*Safer\*\* ground operations
+    - reasonImage: /img/reason-6.svg
+      reasonText: Huge ground \*\*infrastructure\*\* not required
 intro:
-  heading: What we offer
+  heading: The StratoBooster Story
+  intro: >-
+    Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
+    University. During their 2nd year they became involved in a project now
+    called TU2Space. It is here that they met Shaun Whitehead, a Space Engineer!
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    TU2Space is a student led project within the School of Science Engineering
+    and Design at Teesside. The project was initiated by Shaun after he
+    approached the University with the basic concept of developing a small space
+    launch system for a femto-satellite called Thumbsat.
 products:
   - image: img/illustrations-coffee.svg
     text: >-
