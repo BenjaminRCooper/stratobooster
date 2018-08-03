@@ -1,0 +1,9 @@
+<div class="strato-our-story-container">
+  <div class="strato-our-story">
+    <h2 class="strato-our-story__heading">{{.heading}}</h2>
+    <p class="strato-our-story__intro">{{.intro}}</p>
+    {{ range .content }}
+      <p class="strato-our-story__content">{{.ourStoryText}}</p>
+    {{ end }}
+  </div>
+</div>

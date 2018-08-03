@@ -1,13 +1,15 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "header" .Params.header }}
 
-{{ partial "short-text" .Params.blurb}}
+{{ partial "why-balloon" .Params.whyBalloon}}
 
-{{ partial "2-up" .Params }}
+{{ partial "our-story" .Params.ourStory }}
 
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
+{{ partial "our-team" .Params.ourTeam }}
 
-{{ partial "blog" . }}
+{{ partial "why-strato" .Params.whyStrato }}
+
+{{ partial "social" .Params.inPress }}
 
 {{ end }}

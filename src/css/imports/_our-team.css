@@ -1,0 +1,58 @@
+.strato-our-team {
+  max-width: 1135px;
+  width: 100%;
+  text-align: center;
+  margin: 5rem auto 7rem;
+}
+
+.strato-our-team__heading {
+  color: #6775EE;
+  font-size: 2.3rem;
+  margin-bottom: 1.5em;
+}
+
+.strato-our-team__members {
+  display: flex;
+  flex-direction: column;
+}
+
+.strato-our-team__member {
+  display: flex;
+  margin-bottom: 5.5rem;
+}
+
+.strato-our-team__member:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.strato-our-team__member:nth-child(even) .strato-our-team__aside {
+  text-align: right;
+}
+
+.strato-our-team__aside {
+  flex: 0 0 40%;
+  text-align: left
+}
+
+.strato-our-team__content {
+  flex: 0 0 60%;
+  text-align: left;
+}
+
+.strato-our-team__name {
+  color: #353F4F;
+  font-size: 1.35rem;
+  margin-bottom: 0.75em;
+}
+
+.strato-our-team__role {
+  color: #AFC2D3;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+}
+
+.strato-our-team__description {
+  font-size: 1.05rem;
+  color: #353F4F;
+  line-height: 1.8;
+}

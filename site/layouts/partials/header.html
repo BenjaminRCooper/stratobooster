@@ -1,0 +1,14 @@
+<div class="strato-header-container">
+  <header class="strato-header">
+    {{ partial "nav" . }}
+    <div class="strato-header-content">
+      <section class="strato-header__heading-container">
+        <h1 class="strato-header__heading">{{.title}}</h1>
+        <a class="strato-header__link" href={{.buttonLink}} target="_blank">{{.button}}</a>
+      </section>
+      <aside class="strato-header__rocket-container">
+        <img src="/img/header-rocket.svg" height="490" />
+      </aside>
+    </div>
+  </header>
+</div>

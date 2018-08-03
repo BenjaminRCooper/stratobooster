@@ -1,0 +1,52 @@
+.strato-social {
+  max-width: 1135px;
+  width: 100%;
+  margin: 10rem auto;
+  display: flex;
+}
+
+.strato-social__heading {
+  color: #6775EE;
+  font-size: 2.3rem;
+  margin-bottom: 1.5em;
+}
+
+.strato-social__twitter {
+  flex: 0 0 45%;
+  margin-right: auto;
+}
+
+.strato-social__news {
+  flex: 0 0 45%;
+  margin-left: auto;
+}
+
+.strato-social-news__item {
+  background: #F4F4F9;
+  padding: 2rem;
+  margin-bottom: 3em;
+}
+
+.strato-social-news__heading {
+  color: #7C8999;
+  line-height: 1.35;
+  font-size: 1.35rem;
+  margin-bottom: 1em;
+}
+
+.strato-social-news__link {
+  color: #5AD4FF;
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+
+.strato-social-news__text {
+  color: #353F4F;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: 0.8em;
+}
+
+.strato-social-news__link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,11 @@
+<div class="strato-why-balloon">
+  <h2 class="strato-why-balloon__heading">{{.heading}}</h2>
+  <div class="strato-why-balloon__reasons">
+    {{ range .reasons }}
+      <div class="strato-why-balloon__reason">
+        <img class="strato-why-balloon__reason-image" src={{.reasonImage}} />
+        <p class="strato-why-balloon__reason-text">{{.body | markdownify}}</p>
+      </div>
+    {{ end }}
+  </div>
+</div>

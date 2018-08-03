@@ -1,0 +1,46 @@
+.strato-why-strato-container {
+  background: #6775EE;
+}
+
+.strato-why-strato {
+  padding: 5rem 0;
+  max-width: 1135px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.strato-why-strato__heading {
+  color: #FFF;
+  font-size: 2.3rem;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+.strato-why-strato__reasons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.strato-why-strato__reason {
+  flex: 0 0 33%;
+  text-align: center;
+  margin-bottom: 3em;
+  padding: 0 1em;
+}
+
+.strato-why-strato__reason-image {
+  margin: 0 auto 1.5em;
+  display: block;
+}
+
+.strato-why-strato__reason-text {
+  color: #FFF;
+  font-size: 1.35rem;
+  line-height: 1.4;
+}
+
+.strato-why-strato__reason-text strong {
+  color: #6775EE;
+  font-weight: normal;
+}
+

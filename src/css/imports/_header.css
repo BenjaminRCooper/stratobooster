@@ -1,0 +1,74 @@
+.strato-header-container {
+  background: url("data:image/svg+xml,%0A%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='1454' height='541' viewBox='0 0 1454 541'%3E%3Cdefs%3E%3Cpath id='a' d='M0 .31h1454v540.828H0z'/%3E%3C/defs%3E%3Cg fill='none' fill-rule='evenodd' transform='translate(0 -.31)'%3E%3Cmask id='b' fill='%23fff'%3E%3Cuse xlink:href='%23a'/%3E%3C/mask%3E%3Cpath fill='%234D458C' d='M1453.698 223.34l.196-48.423S1086.022-72.765 703.774 21.855C321.523 116.475 314.875 182.3-.896 78.422v239.686h.301L-.79 366.53s367.873 247.682 750.122 153.062c382.25-94.619 388.897-160.445 704.67-56.567V223.34h-.303z' mask='url(%23b)'/%3E%3C/g%3E%3C/svg%3E%0A"),
+  linear-gradient(to bottom, #4A3E82 70%, #FFF 30%);
+  background-repeat: no-repeat, repeat-x;
+  background-position: bottom center, 0 0;
+  background-size: 101%, 100%;
+}
+
+.strato-header {
+  max-width: 1135px;
+  width: 100%;
+  padding: 2.5rem 0 0;
+  margin: 0 auto;
+}
+
+.strato-nav-container {
+  display: flex;
+}
+
+.strato-nav {
+  list-style: none;
+  margin-left: auto;
+  display: flex;
+}
+
+.strato-nav li:not(:last-child) {
+  margin-right: 2em;
+}
+
+.strato-nav__element {
+  font-size: 1.125rem;
+} 
+
+.strato-nav__link {
+  color: #FFF;
+  text-decoration: none;
+}
+
+.strato-nav__link:hover {
+  text-decoration: underline;
+}
+
+.strato-header-content {
+  padding: 5em 0 10em;
+  display: flex;
+  align-items: center;
+}
+
+.strato-header__heading {
+  font-size: 2.9rem;
+  flex: 0 0 50%;
+  color: #FFF;
+  line-height: 1.4;
+  margin-bottom: 1.5em;
+}
+
+.strato-header__rocket-container {
+  flex: 0 0 50%;
+}
+
+.strato-header__link {
+  background: #5AD4FF;
+  border-radius: 25px;
+  padding: 1em 3em;
+  font-size: 1rem;
+  color: #FFF;
+  text-transform: uppercase;
+  text-align: center;
+  text-decoration: none;
+}
+
+.strato-header__link:hover {
+  text-decoration: underline;
+}

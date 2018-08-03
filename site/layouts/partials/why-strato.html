@@ -1,0 +1,14 @@
+<div class="strato-why-strato-container">
+  <div class="strato-why-strato">
+    <h2 class="strato-why-strato__heading">{{.heading}}</h2>
+    <div class="strato-why-strato__reasons">
+      {{ range .reasons }}
+        <div class="strato-why-strato__reason">
+          <img class="strato-why-strato__reason-image" src={{.reasonImage}} />
+          <p class="strato-why-strato__reason-text">{{.reasonText}}</p>
+        </div>
+      {{ end }}
+    </div>
+   </div>
+  </div>
+  
