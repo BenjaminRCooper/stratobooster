@@ -1,13 +1,11 @@
 ---
-title: Great coffee with a conscience
-button: Some Text
-blurb:
-  heading: Why Kaldi?
-  text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+header:
+  button: Watch our video
+  title: >-
+    We help organisations launch their small satellites in space using high
+    altitude balloons
+whyBalloon:
+  reasons: []
 intro:
   heading: What we offer
   text: >-
