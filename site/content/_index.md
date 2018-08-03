@@ -8,21 +8,42 @@ header:
 whyBalloon:
   heading: Why a Balloon?
   reasons:
-    - reasonImage: /img/reason-1.svg
-      reasonText: The Balloon lifts the rocket to **32km** altitude
-    - reasonImage: /img/reason-2.svg
-      reasonText: This is above **99%** of the earth's atmosphere
-    - reasonImage: /img/reason-3.svg
-      reasonText: Less air density means less **thrust** required for the rocket
-    - reasonImage: /img/reason-4.svg
-      reasonText: Only a small rocket is required resulting in smaller operating **costs**
-    - reasonImage: /img/reason-5.svg
-      reasonText: \*\*Safer\*\* ground operations
-    - reasonImage: /img/reason-6.svg
-      reasonText: Huge ground \*\*infrastructure\*\* not required
+    - body: The Balloon lifts the rocket to **32km** altitude
+      reasonImage: /img/reason-1.svg
+    - body: This is above **99%** of the earth's atmosphere
+      reasonImage: /img/reason-2.svg
+    - body: Less air density means less **thrust** required for the rocket
+      reasonImage: /img/reason-3.svg
+    - body: Only a small rocket is required resulting in smaller operating **costs**
+      reasonImage: /img/reason-4.svg
+    - body: '**Safer** ground operations'
+      reasonImage: /img/reason-5.svg
+    - body: Huge ground **infrastructure** not required
+      reasonImage: /img/reason-6.svg
 ourStory:
-  heading: Test Story
-  intro: Test
+  content:
+    - ourStoryText: >-
+        TU2Space is a student led project within the School of Science
+        Engineering and Design at Teesside. The project was initiated by Shaun
+        after he approached the University with the basic concept of developing
+        a small space launch system for a femto-satellite called Thumbsat.
+    - ourStoryText: >-
+        Andrew and Ben are student project managers of the TU2Space project and
+        have recently co-founded a start-up business, StratoBooster. Their
+        business plans are to commercialise their work from TU2Space with the
+        aim of further researching and testing their current work and developing
+        the small space launch system for customers, who have already expressed
+        interest in using this system. 
+    - ourStoryText: >-
+        Shaun Whitehead will join their team as a non-executive director to
+        provide his expert technical advice and engineering guidance.
+  heading: The StratoBooster Story
+  intro: >-
+    Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
+    University. During their 2nd year they became involved in a Teesside
+    University. During their 2nd year they became involved in a Teesside
+    University. During their 2nd year they became involved in a Whitehead, a
+    Space Engineer!
 ourTeam:
   - about: >-
       Andrew is a co-founder of StratoBooster Ltd and is currently a final year
