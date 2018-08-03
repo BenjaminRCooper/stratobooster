@@ -16,6 +16,7 @@
 
 .strato-our-story__heading {
   color: #6775EE;
+  font-family: 'Circular Pro Bold';
   font-size: 2.3rem;
   margin-bottom: 1.5em;
 }
@@ -33,4 +34,24 @@
   font-size: 1.125rem;
   line-height: 1.6;
   margin-bottom: 2.5em;
+}
+
+@media (--breakpoint-small) {
+  .strato-our-story-container {
+    background: none;
+  }
+
+  .strato-our-story {
+    padding: 0;
+    margin: 0 auto 5rem;
+  }
+  
+  .strato-our-story__intro {
+    font-size: 1.15rem;
+  }
+
+  .strato-our-story__content {
+    font-size: 1rem;
+    padding: 0 1.5em;
+  }
 }

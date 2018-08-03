@@ -59,3 +59,17 @@
   text-decoration: underline;
 }
 
+@media (--breakpoint-small) {
+  .strato-footer-container {
+    background: #4A3E82;
+  }
+
+  .strato-footer {
+    padding: 3rem 2rem;
+    flex-direction: column-reverse;
+  }
+
+  .strato-footer__content {
+    margin: 0 auto 3rem;
+  }
+}

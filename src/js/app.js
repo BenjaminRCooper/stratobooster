@@ -8,3 +8,17 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+const deleteLinks = document.querySelectorAll('.strato-nav__link');
+
+Array.from(deleteLinks).forEach(link => {
+    link.addEventListener('click', function(event) {
+      event.preventDefault();
+
+      let element = document.getElementById(event.target.hash.replace('#', ''));
+
+      element.scrollIntoView({
+        behaviour: 'smooth'
+      });
+    });
+});

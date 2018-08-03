@@ -6,6 +6,7 @@
 
 .strato-why-balloon__heading {
   color: #6775EE;
+  font-family: 'Circular Pro Bold';
   font-size: 2.3rem;
   margin-bottom: 2em;
   text-align: center;
@@ -37,5 +38,15 @@
 .strato-why-balloon__reason-text strong {
   color: #6775EE;
   font-weight: normal;
+}
+
+@media (--breakpoint-small) {
+  .strato-why-balloon__reason {
+    flex: 0 0 50%;
+  }
+
+  .strato-why-balloon__reason-text {
+    font-size: 1.1rem;
+  }
 }
 

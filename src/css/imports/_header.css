@@ -48,6 +48,7 @@
 
 .strato-header__heading {
   font-size: 2.9rem;
+  font-family: 'Circular Pro Bold';
   flex: 0 0 50%;
   color: #FFF;
   line-height: 1.4;
@@ -71,4 +72,28 @@
 
 .strato-header__link:hover {
   text-decoration: underline;
+}
+
+@media (--breakpoint-small) {
+  .strato-nav {
+    display: none;
+  }
+
+  .strato-nav-container {
+    display: block;
+  }
+
+  .strato-header__heading {
+    font-size: 2rem;
+    flex: 0 0 100%;
+  }
+
+  .strato-header__rocket-container {
+    display: none;
+  }
+
+  .strato-header-container {
+    background: #4A3E82;
+    text-align: center;
+  }
 }

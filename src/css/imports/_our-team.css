@@ -7,6 +7,7 @@
 
 .strato-our-team__heading {
   color: #6775EE;
+  font-family: 'Circular Pro Bold';
   font-size: 2.3rem;
   margin-bottom: 1.5em;
 }
@@ -55,4 +56,34 @@
   font-size: 1.05rem;
   color: #353F4F;
   line-height: 1.8;
+}
+
+@media (--breakpoint-small) {
+  .strato-our-team__members {
+    flex-direction: column;
+  }
+
+  .strato-our-team__member {
+    padding: 0 2em;
+    flex-direction: column !important;
+    margin-bottom: 2em;
+  }
+
+  .strato-our-team__aside {
+    flex: 0 0 100%;
+    margin-bottom: 1em;
+  }
+
+  .strato-our-team__aside img {
+    width: 100%;
+    height: 100%;
+  }
+
+  .strato-our-team__content {
+    flex: 0 0 100%;
+  }
+
+  .strato-our-team__description {
+    font-size: 0.9rem;
+  }
 }
