@@ -97,5 +97,23 @@ whyStrato:
       reasonText: There hasn't been a commercial space launch from UK soil
     - reasonImage: /img/why-strato-6.svg
       reasonText: We aim to be the first to do that
+inPress:
+  - heading: Student aerospace project reaches for the stars thanks to funding boost
+    link: >-
+      https://www.tees.ac.uk/sections/news/pressreleases_story.cfm?story_id=6858&this_issue_title=June%202018&this_issue=301
+    text: >-
+      Andrew Dunn and Ben Massey, both second-year BEng (Hons) Aerospace
+      Engineering students at Teesside University, set up StratoBooster, a
+      spin-off of the student-led space exploration project TU2Space.
+  - heading: StratoBooster is a nominee for the James Dyson award
+    link: 'https://www.jamesdysonaward.org/2018/project/stratobooster/'
+    text: >-
+      StratoBooster is a space launch system, to launch small satellites into
+      low earth orbit by means of a high-altitude balloon and small rocket
+      launch, from the stratosphere, all done from the UK.
+footer:
+  buttonLink: 'https://www.youtube.com/watch?v=6t-RoGvVxEY'
+  buttonText: Watch Our Video
+  email: hello@stratobooster.com
 ---
 
