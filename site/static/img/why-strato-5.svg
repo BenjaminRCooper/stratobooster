@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="56px" viewBox="0 0 48 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 81</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 6434 1455 6434 1455 0.31 0 0.31"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="stratobooster-website-final2" transform="translate(-704.000000, -4757.000000)">
+            <g id="Group-81" transform="translate(0.000000, -0.310000)">
+                <path d="M748.7583,4785.5784 C748.7583,4786.2944 748.1753,4786.8784 747.4583,4786.8784 L707.1583,4786.8784 L707.1583,4760.8784 L747.4583,4760.8784 C748.1753,4760.8784 748.7583,4761.4614 748.7583,4762.1784 L748.7583,4785.5784 Z M747.4583,4758.2774 L707.1583,4758.2774 C705.7223,4758.2774 704.5583,4759.4414 704.5583,4760.8784 L704.5583,4811.9774 C704.5583,4812.6964 705.1403,4813.2774 705.8583,4813.2774 C706.5763,4813.2774 707.1583,4812.6964 707.1583,4811.9774 L707.1583,4789.4774 L747.4583,4789.4774 C749.6123,4789.4774 751.3583,4787.7314 751.3583,4785.5784 L751.3583,4762.1784 C751.3583,4760.0234 749.6123,4758.2774 747.4583,4758.2774 Z" id="Fill-74" fill="#FFFFFF"></path>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-77"></g>
+                <polygon id="Fill-76" fill="#FFFFFF" mask="url(#mask-2)" points="706.111 4774.878 750.528 4774.878 750.528 4772.878 706.111 4772.878"></polygon>
+                <polygon id="Fill-78" fill="#FFFFFF" mask="url(#mask-2)" points="726.958 4788.534 728.958 4788.534 728.958 4759.465 726.958 4759.465"></polygon>
+                <polygon id="Fill-79" fill="#FFFFFF" mask="url(#mask-2)" points="749.0024 4788.2043 706.6284 4761.7253 707.6884 4760.0303 750.0624 4786.5093"></polygon>
+                <polygon id="Fill-80" fill="#FFFFFF" mask="url(#mask-2)" points="706.6548 4789.3733 705.5668 4787.6953 748.2148 4760.0393 749.3018 4761.7173"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
