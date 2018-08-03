@@ -1,10 +1,12 @@
 ---
 header:
   button: Watch our video
+  buttonLink: 'https://www.youtube.com/watch?v=6t-RoGvVxEY'
   title: >-
     We help organisations launch their small satellites in space using high
     altitude balloons
 whyBalloon:
+  heading: Why a Balloon?
   reasons: []
 intro:
   heading: What we offer
