@@ -21,7 +21,7 @@ whyBalloon:
     - reasonImage: /img/reason-6.svg
       reasonText: Huge ground \*\*infrastructure\*\* not required
 ourStory:
-  heading: Test
+  heading: Test Story
   intro: Test
 ourTeam:
   - about: >-
