@@ -67,6 +67,7 @@
   }
 
   .strato-footer {
+    background: none;
     padding: 3rem 2rem;
     flex-direction: column-reverse;
   }

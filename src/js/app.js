@@ -28,7 +28,7 @@ const config5 = {
   "domId": 'strato-social__twitter-list',
   "maxTweets": 2,
   "enableLinks": true, 
-  "showUser": false,
+  "showUser": true,
   "showTime": true,
   "showImages": false,
   "lang": 'en'

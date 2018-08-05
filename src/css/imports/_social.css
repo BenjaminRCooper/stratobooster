@@ -12,6 +12,93 @@
   margin-bottom: 1.5em;
 }
 
+
+#strato-social__twitter-list ul {
+  list-style: none;
+}
+
+#strato-social__twitter-list li {
+  background: #F4F4F9;
+  padding: 2rem;
+  margin-bottom: 3em;
+}
+
+#strato-social__twitter-list .tweet {
+  color: #353f4f;
+  font-size: 16.8px;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  margin-bottom: .8em;
+}
+
+#strato-social__twitter-list .tweet a {
+  text-decoration: none;
+  font-size: inherit;
+  color: #5ad4ff;
+}
+
+#strato-social__twitter-list .tweet a:hover {
+  text-decoration: underline;
+}
+
+#strato-social__twitter-list .timePosted {
+  margin-bottom: 1em;
+}
+
+#strato-social__twitter-list .user div a {
+  color: #7c8999;
+  line-height: 1.35;
+  font-size: 21.6px;
+  font-size: 1.35rem;
+  display: block;
+  text-decoration: none;
+}
+
+#strato-social__twitter-list .user img {
+  height: 52px;
+  width: 52px;
+  border-radius: 50%;
+}
+
+#strato-social__twitter-list .user {
+  margin-bottom: 1em;
+}
+
+#strato-social__twitter-list .user > a {
+  margin-right: 1em;
+}
+
+#strato-social__twitter-list .user > div,
+#strato-social__twitter-list .user > a {
+  display: inline-block;
+  vertical-align: middle
+}
+
+#strato-social__twitter-list .user div a:hover {
+  text-decoration: none;
+}
+
+#strato-social__twitter-list .timePosted a {
+  color: #7c8999;
+  line-height: 1.35;
+  font-size: 21.6px;
+  font-size: 1.05rem;
+  margin-bottom: 1em;
+  text-decoration: none;
+}
+
+#strato-social__twitter-list .interact a {
+  display: inline-block;
+  text-decoration: none;
+  font-size: 1.05rem;
+  color: #5ad4ff;
+  margin-right: 1em;
+}
+
+#strato-social__twitter-list .timePosted a:hover {
+  text-decoration: underline;
+}
+
 .strato-social__twitter {
   flex: 0 0 45%;
   margin-right: auto;
