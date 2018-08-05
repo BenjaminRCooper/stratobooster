@@ -40,7 +40,8 @@ ourStory:
   heading: The StratoBooster Story
   intro: >-
     Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
-    University. During their 2nd year they became involved in a project now called TU2Space. It is here that they met Shaun Whitehead, a Space Engineer!
+    University. During their 2nd year they became involved in a project now
+    called TU2Space. It is here that they met Shaun Whitehead, a Space Engineer!
 ourTeam:
   - about: >-
       Andrew is a co-founder of StratoBooster Ltd and is currently a final year
@@ -53,7 +54,7 @@ ourTeam:
       humanitarian assistance and support to those in need. Andrew has held a
       Private Pilot's Licence (PPL) since 2012 and enjoys most things related to
       aviation and space.
-    avatar: /img/default-avatar.svg
+    avatar: /img/andrew_400x400.jpg
     name: Andrew Dunn
     role: Aerospace Engineer
   - about: >-
@@ -65,7 +66,7 @@ ourTeam:
       has been serving in the Royal Auxiliary Air Force as an RAF policeman,
       which involves air platform and operational security as well as ceremonial
       duties.
-    avatar: /img/default-avatar.svg
+    avatar: /img/ben_400x400.jpg
     name: Ben Massey
     role: Director
   - about: >-
@@ -74,7 +75,7 @@ ourTeam:
       favourite projects are Thumbsat, Vitae, a sculpture for the Moon and
       StratoBooster in association with TU2Space. Shaun has a BEng in Mechanical
       Engineering, he is a Chartered Engineer and a Fellow of the IMechE.
-    avatar: /img/default-avatar.svg
+    avatar: /img/shaun.jpg
     name: Shaun Whitehead
     role: Non-Executive Director
 whyStrato:
@@ -113,3 +114,4 @@ footer:
   buttonText: Watch Our Video
   email: hello@stratobooster.com
 ---
+
