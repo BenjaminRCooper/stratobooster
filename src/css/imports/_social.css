@@ -75,7 +75,7 @@
 }
 
 #strato-social__twitter-list .user div a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 #strato-social__twitter-list .timePosted a {
@@ -93,6 +93,10 @@
   font-size: 1.05rem;
   color: #5ad4ff;
   margin-right: 1em;
+}
+
+#strato-social__twitter-list .interact a:hover {
+  text-decoration: underline;
 }
 
 #strato-social__twitter-list .timePosted a:hover {
