@@ -22,3 +22,18 @@ Array.from(deleteLinks).forEach(link => {
       });
     });
 });
+
+const config5 = {
+  "profile": {"screenName": 'stratobooster'},
+  "domId": 'strato-social__twitter-list',
+  "maxTweets": 2,
+  "enableLinks": true, 
+  "showUser": false,
+  "showTime": true,
+  "showImages": false,
+  "lang": 'en'
+};
+
+document.addEventListener("DOMContentLoaded", function(event){
+  twitterFetcher.fetch(config5);
+});
