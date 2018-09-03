@@ -56,7 +56,7 @@ ourTeam:
       aviation and space.
     avatar: /img/andrew_400x400.jpg
     name: Andrew Dunn
-    role: Aerospace Engineer
+    role: Co-Founder and Managing Director
   - about: >-
       Ben is a co-founder of StratoBooster Ltd and currently studying his final
       year of a Aerospace Engineering degree at Teesside University. Ben also
@@ -68,7 +68,7 @@ ourTeam:
       duties.
     avatar: /img/ben_400x400.jpg
     name: Ben Massey
-    role: Director
+    role: Co-Founder and Director
   - about: >-
       Shaun's devices have looked half way across the known universe, landed on
       Mars and even peered into hidden cavities within the Great Pyramid. His
