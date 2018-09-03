@@ -1,7 +1,7 @@
 {
-  "name": "victor-hugo",
+  "name": "stratobooster",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
+  "description": "Stratobooster website",
   "main": "index.js",
   "scripts": {
     "hugo": "gulp hugo",

@@ -6,19 +6,18 @@
 }
 
 .strato-social__heading {
-  color: #6775EE;
-  font-family: 'Circular Pro Bold';
+  color: #6775ee;
+  font-family: "Circular Pro Bold";
   font-size: 2.3rem;
   margin-bottom: 1.5em;
 }
-
 
 #strato-social__twitter-list ul {
   list-style: none;
 }
 
 #strato-social__twitter-list li {
-  background: #F4F4F9;
+  background: #f4f4f9;
   padding: 2rem;
   margin-bottom: 3em;
 }
@@ -28,7 +27,7 @@
   font-size: 16.8px;
   font-size: 1.05rem;
   line-height: 1.6;
-  margin-bottom: .8em;
+  margin-bottom: 0.8em;
 }
 
 #strato-social__twitter-list .tweet a {
@@ -71,7 +70,7 @@
 #strato-social__twitter-list .user > div,
 #strato-social__twitter-list .user > a {
   display: inline-block;
-  vertical-align: middle
+  vertical-align: middle;
 }
 
 #strato-social__twitter-list .user div a:hover {
@@ -106,6 +105,7 @@
 .strato-social__twitter {
   flex: 0 0 45%;
   margin-right: auto;
+  overflow: hidden;
 }
 
 .strato-social__news {
@@ -114,26 +114,26 @@
 }
 
 .strato-social-news__item {
-  background: #F4F4F9;
+  background: #f4f4f9;
   padding: 2rem;
   margin-bottom: 3em;
 }
 
 .strato-social-news__heading {
-  color: #7C8999;
+  color: #7c8999;
   line-height: 1.35;
   font-size: 1.35rem;
   margin-bottom: 1em;
 }
 
 .strato-social-news__link {
-  color: #5AD4FF;
+  color: #5ad4ff;
   font-size: 1.05rem;
   text-decoration: none;
 }
 
 .strato-social-news__text {
-  color: #353F4F;
+  color: #353f4f;
   font-size: 1.05rem;
   line-height: 1.6;
   margin-bottom: 0.8em;
