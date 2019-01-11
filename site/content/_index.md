@@ -1,7 +1,7 @@
 ---
 header:
   button: Watch our video
-  buttonLink: 'https://www.youtube.com/watch?v=6t-RoGvVxEY'
+  buttonLink: 'https://www.youtube.com/watch?v=eQU0vNxh06A'
   title: >-
     We help organisations launch their small satellites in space using high
     altitude balloons
@@ -35,8 +35,8 @@ ourStory:
         the small space launch system for customers, who have already expressed
         interest in using this system. 
     - ourStoryText: >-
-        Shaun Whitehead will join their team as a non-executive director to
-        provide his expert technical advice and engineering guidance.
+        Shaun Whitehead, an experienced space engineer, will join their team as
+        a consultant to provide his expert technical advice.
   heading: The StratoBooster Story
   intro: >-
     Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
@@ -54,9 +54,8 @@ ourTeam:
       humanitarian assistance and support to those in need. Andrew has held a
       Private Pilot's Licence (PPL) since 2012 and enjoys most things related to
       aviation and space.
-    avatar: /img/andrew_400x400.jpg
     name: Andrew Dunn
-    role: Co-Founder and Managing Director
+    role: Co-Founder
   - about: >-
       Ben is a co-founder of StratoBooster Ltd and currently studying his final
       year of a Aerospace Engineering degree at Teesside University. Ben also
@@ -66,18 +65,16 @@ ourTeam:
       has been serving in the Royal Auxiliary Air Force as an RAF policeman,
       which involves air platform and operational security as well as ceremonial
       duties.
-    avatar: /img/ben_400x400.jpg
     name: Ben Massey
-    role: Co-Founder and Director
+    role: Co-Founder
   - about: >-
       Shaun's devices have looked half way across the known universe, landed on
       Mars and even peered into hidden cavities within the Great Pyramid. His
       favourite projects are Thumbsat, Vitae, a sculpture for the Moon and
       StratoBooster in association with TU2Space. Shaun has a BEng in Mechanical
       Engineering, he is a Chartered Engineer and a Fellow of the IMechE.
-    avatar: /img/shaun.jpg
     name: Shaun Whitehead
-    role: Non-Executive Director
+    role: Consultant
 whyStrato:
   heading: Why StratoBooster
   reasons:
@@ -110,7 +107,7 @@ inPress:
       low earth orbit by means of a high-altitude balloon and small rocket
       launch, from the stratosphere, all done from the UK.
 footer:
-  buttonLink: 'https://www.youtube.com/watch?v=6t-RoGvVxEY'
+  buttonLink: 'https://www.youtube.com/watch?v=eQU0vNxh06A'
   buttonText: Watch Our Video
   email: hello@stratobooster.com
 ---
