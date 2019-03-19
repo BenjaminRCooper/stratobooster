@@ -34,9 +34,7 @@ ourStory:
         aim of further researching and testing their current work and developing
         the small space launch system for customers, who have already expressed
         interest in using this system. 
-    - ourStoryText: >-
-        Shaun Whitehead, an experienced space engineer, will join their team as
-        a consultant to provide his expert technical advice.
+    - ourStoryText: ''
   heading: The StratoBooster Story
   intro: >-
     Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
