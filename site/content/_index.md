@@ -52,7 +52,7 @@ ourTeam:
       humanitarian assistance and support to those in need. Andrew has held a
       Private Pilot's Licence (PPL) since 2012 and enjoys most things related to
       aviation and space.
-    avatar: ''
+    avatar: /img/dspgd_fvsaasve0.jpg
     name: Andrew Dunn
     role: Co-Founder
   - about: >-
@@ -64,7 +64,7 @@ ourTeam:
       has been serving in the Royal Auxiliary Air Force as an RAF policeman,
       which involves air platform and operational security as well as ceremonial
       duties.
-    avatar: ''
+    avatar: /img/greg-clark.png
     name: Ben Massey
     role: Co-Founder
   - about: >-
