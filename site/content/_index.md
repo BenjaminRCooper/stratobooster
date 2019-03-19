@@ -109,7 +109,7 @@ inPress:
       low earth orbit by means of a high-altitude balloon and small rocket
       launch, from the stratosphere, all done from the UK.
 footer:
-  buttonLink: 'https://www.youtube.com/watch?v=eQU0vNxh06A'
+  buttonLink: 'https://youtu.be/6Lff2c5Xiw0'
   buttonText: Watch Our Video
   email: hello@stratobooster.com
 ---
