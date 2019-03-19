@@ -1,7 +1,7 @@
 ---
 header:
   button: Watch our video
-  buttonLink: 'https://www.youtube.com/watch?v=eQU0vNxh06A'
+  buttonLink: 'https://youtu.be/6Lff2c5Xiw0'
   title: >-
     We help organisations launch their small satellites in space using high
     altitude balloons
