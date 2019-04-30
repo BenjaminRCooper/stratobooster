@@ -39,9 +39,9 @@ ourStory:
         developing the small space launch system for customers, who have already
         expressed interest in using this system. 
     - ourStoryText: >+
-        With the reduced operating costs compared other providers or space
+        With the reduced operating costs compared with other providers of space
         launches, flexible launch locations and the effects of weather on
-        balloons were small, resulting in a strong ground launch system. We aim
+        balloons were small, resulting in a strong ground launch system, we aim
         to: 
 
 
