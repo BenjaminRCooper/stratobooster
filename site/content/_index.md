@@ -42,40 +42,17 @@ ourStory:
     University. During their 2nd year they became involved in a project now
     called TU2Space.
 ourTeam:
-  - about: >-
-      Andrew is a co-founder of StratoBooster Ltd and is currently a final year
-      Aerospace Engineering student at Teesside University. Andrew works as a
-      Student Ambassador for the university, working with the external partners
-      hosting events, engaging with local schools and the community. He is also
-      a STEM ambassador and enjoys promoting STEM related education in the
-      younger generation to inspire our future scientists and engineers. He
-      enjoys volunteering and helping others and has spent time abroad providing
-      humanitarian assistance and support to those in need. Andrew has held a
-      Private Pilot's Licence (PPL) since 2012 and enjoys most things related to
-      aviation and space.
+  - about: ''
     avatar: ''
-    name: Andrew Dunn
-    role: Co-Founder
-  - about: >-
-      Ben is a co-founder of StratoBooster Ltd and currently studying his final
-      year of a Aerospace Engineering degree at Teesside University. Ben also
-      works as a student ambassador for the university and has volunteered as a
-      PASS (Peer Assisted Study Session) Leader, assisting engineering students,
-      at Teesside University, with their learning. For the past two years, Ben
-      has been serving in the Royal Auxiliary Air Force as an RAF policeman,
-      which involves air platform and operational security as well as ceremonial
-      duties.
+    name: ''
+    role: ''
+  - about: ''
     avatar: ''
-    name: Ben Massey
-    role: Co-Founder
-  - about: >-
-      Shaun's devices have looked half way across the known universe, landed on
-      Mars and even peered into hidden cavities within the Great Pyramid. His
-      favourite projects are Thumbsat, Vitae, a sculpture for the Moon and
-      StratoBooster in association with TU2Space. Shaun has a BEng in Mechanical
-      Engineering, he is a Chartered Engineer and a Fellow of the IMechE.
-    name: Shaun Whitehead
-    role: Consultant
+    name: ''
+    role: ''
+  - about: ''
+    name: ''
+    role: ''
 whyStrato:
   heading: Why StratoBooster
   reasons:
