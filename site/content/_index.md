@@ -3,8 +3,9 @@ header:
   button: Watch our video
   buttonLink: 'https://youtu.be/6Lff2c5Xiw0'
   title: >-
-    We help organisations launch their small satellites in space using high
-    altitude balloons
+    We are focused in the development of a High-altitude Balloon Launched Rocket
+    system, capable in helping organisations and institutions launch their small
+    satellites and payloads into space
 whyBalloon:
   heading: Why a Balloon?
   reasons:
@@ -25,9 +26,8 @@ ourStory:
     - ourStoryText: >-
         TU2Space is a student led project within the School of Science
         Engineering and Design at Teesside. The project was initiated by
-        Teesside University's School of Science Engineering and Design, with the
-        basic concept of developing a small space launch system for a
-        femto-satellite
+        University'with the basic concept of developing a small space launch
+        system for a femto-satellite
     - ourStoryText: >-
         Andrew and Ben are student project managers of the TU2Space project and
         have recently co-founded a start-up business, StratoBooster. Their
