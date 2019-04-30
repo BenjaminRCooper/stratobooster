@@ -38,7 +38,25 @@ ourStory:
         the aim of further researching and testing their current work and
         developing the small space launch system for customers, who have already
         expressed interest in using this system. 
-    - ourStoryText: "With the reduced operating costs compared other providers or space launches, flexible launch locations and the effects of weather on balloons were small, resulting in a strong ground launch system. We aim to: \n\n-\tCreate a Space Launch System for Femto/ Pico Payloads and Satellites \n\n-\tMake Small Satellite Operators the Priority, when currently they are secondary \n\n-\tMake Space Accessible to the Many\n\n-\tHelp schools and institutions conduct afford space missions and promote STEM throughout. \n"
+    - ourStoryText: >
+        With the reduced operating costs compared other providers or space
+        launches, flexible launch locations and the effects of weather on
+        balloons were small, resulting in a strong ground launch system. We aim
+        to: 
+
+
+        - Create a Space Launch System for Femto/ Pico Payloads and Satellites 
+
+
+        - Make Small Satellite Operators the Priority, when currently they are
+        secondary 
+
+
+        - Make Space Accessible to the Many
+
+
+        - Help schools and institutions conduct afford space missions and
+        promote STEM throughout. 
   heading: The StratoBooster Story
   intro: >-
     Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
