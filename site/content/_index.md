@@ -38,23 +38,24 @@ ourStory:
         the aim of further researching and testing their current work and
         developing the small space launch system for customers, who have already
         expressed interest in using this system. 
-    - ourStoryText: >
+    - ourStoryText: >+
         With the reduced operating costs compared other providers or space
         launches, flexible launch locations and the effects of weather on
         balloons were small, resulting in a strong ground launch system. We aim
         to: 
 
 
-        - Create a Space Launch System for Femto/ Pico Payloads and Satellites 
+
+         
 
 
+    - ourStoryText: '- Create a Space Launch System for Femto/ Pico Payloads and Satellites '
+    - ourStoryText: >-
         - Make Small Satellite Operators the Priority, when currently they are
-        secondary 
-
-
+        secondary
+    - ourStoryText: |
         - Make Space Accessible to the Many
-
-
+    - ourStoryText: >
         - Help schools and institutions conduct afford space missions and
         promote STEM throughout. 
   heading: The StratoBooster Story
