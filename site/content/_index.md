@@ -24,9 +24,10 @@ ourStory:
   content:
     - ourStoryText: >-
         TU2Space is a student led project within the School of Science
-        Engineering and Design at Teesside. The project was initiated by Shaun
-        after he approached the University with the basic concept of developing
-        a small space launch system for a femto-satellite called Thumbsat.
+        Engineering and Design at Teesside. The project was initiated by
+        Teesside University's School of Science Engineering and Design, with the
+        basic concept of developing a small space launch system for a
+        femto-satellite
     - ourStoryText: >-
         Andrew and Ben are student project managers of the TU2Space project and
         have recently co-founded a start-up business, StratoBooster. Their
@@ -39,7 +40,7 @@ ourStory:
   intro: >-
     Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
     University. During their 2nd year they became involved in a project now
-    called TU2Space. It is here that they met Shaun Whitehead, a Space Engineer!
+    called TU2Space.
 ourTeam:
   - about: >-
       Andrew is a co-founder of StratoBooster Ltd and is currently a final year
