@@ -3,9 +3,8 @@ header:
   button: Watch our video
   buttonLink: 'https://youtu.be/6Lff2c5Xiw0'
   title: >-
-    We are focused in the development of a High-altitude Balloon Launched Rocket
-    system, capable in helping organisations and institutions launch their small
-    satellites and payloads into space
+    We help organisations and institutions launch their small satellites and
+    payloads into space
 whyBalloon:
   heading: Why a Balloon?
   reasons:
