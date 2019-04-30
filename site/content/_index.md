@@ -26,15 +26,19 @@ ourStory:
         TU2Space is a student led project within the School of Science
         Engineering and Design at Teesside. The project was initiated by the
         school with the basic concept of developing a small space launch system
-        for a femto-satellite
+        for a femto-satellites. Andrew and Ben are student project managers of
+        the TU2Space project and have recently co-founded a start-up business,
+        StratoBooster. 
     - ourStoryText: >-
-        Andrew and Ben are student project managers of the TU2Space project and
-        have recently co-founded a start-up business, StratoBooster. Their
-        business plans are to commercialise their work from TU2Space with the
-        aim of further researching and testing their current work and developing
-        the small space launch system for customers, who have already expressed
-        interest in using this system. 
-    - ourStoryText: ''
+        StratoBooster is focused in the development of a High-altitude Balloon
+        Launched Rocket system, capable in helping organisations and
+        institutions launch their small satellites and payloads into space
+
+        Their business plans are to commercialise their work from TU2Space with
+        the aim of further researching and testing their current work and
+        developing the small space launch system for customers, who have already
+        expressed interest in using this system. 
+    - ourStoryText: "With the reduced operating costs compared other providers or space launches, flexible launch locations and the effects of weather on balloons were small, resulting in a strong ground launch system. We aim to: \n-\tCreate a Space Launch System for Femto/ Pico Payloads and Satellites \n-\tMake Small Satellite Operators the Priority, when currently they are secondary \n-\tMake Space Accessible to the Many\n-\tHelp schools and institutions conduct afford space missions and promote STEM throughout. \n"
   heading: The StratoBooster Story
   intro: >-
     Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
