@@ -40,9 +40,8 @@ ourStory:
         expressed interest in using this system. 
     - ourStoryText: >+
         With the reduced operating costs compared with other providers of space
-        launches, flexible launch locations and the effects of weather on
-        balloons were small, resulting in a strong ground launch system, we aim
-        to: 
+        launches, flexible launch locations and effects of weather on balloons
+        being minimal resulting in a strong ground launch system, we aim to: 
 
 
 
