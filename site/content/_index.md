@@ -32,8 +32,7 @@ ourStory:
     - ourStoryText: >-
         StratoBooster is focused in the development of a High-altitude Balloon
         launched rocket system, capable in helping organisations and
-        institutions launch their small satellites and payloads into space
-
+        institutions launch their small satellites and payloads into space.
         Their business plans are to commercialise their work from TU2Space with
         the aim of further researching and testing their current work and
         developing the small space launch system for customers, who have already
