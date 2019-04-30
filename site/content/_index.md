@@ -46,7 +46,7 @@ ourStory:
     called TU2Space.
 ourTeam: []
 whyStrato:
-  heading: Why StratoBooster
+  heading: Why StratoBooster?
   reasons:
     - reasonImage: /img/why-strato-1.svg
       reasonText: Lower operating costs than other space launch providers
