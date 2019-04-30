@@ -25,9 +25,9 @@ ourStory:
   content:
     - ourStoryText: >-
         TU2Space is a student led project within the School of Science
-        Engineering and Design at Teesside. The project was initiated by
-        University'with the basic concept of developing a small space launch
-        system for a femto-satellite
+        Engineering and Design at Teesside. The project was initiated by the
+        school with the basic concept of developing a small space launch system
+        for a femto-satellite
     - ourStoryText: >-
         Andrew and Ben are student project managers of the TU2Space project and
         have recently co-founded a start-up business, StratoBooster. Their
