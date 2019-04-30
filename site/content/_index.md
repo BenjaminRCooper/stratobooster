@@ -49,14 +49,16 @@ ourStory:
          
 
 
-    - ourStoryText: '- Create a Space Launch System for Femto/ Pico Payloads and satellites '
     - ourStoryText: >-
-        - Make small satellite operators the priority, when currently they are
-        secondary
+        -    Create a Space Launch System for Femto/ Pico Payloads and
+        satellites 
+    - ourStoryText: >-
+        -    Make small satellite operators the priority, when currently they
+        are secondary
     - ourStoryText: |
-        - Make space accessible to the many
+        -    Make space accessible to the many
     - ourStoryText: >
-        - Help schools and institutions conduct affordable space missions and
+        -    Help schools and institutions conduct affordable space missions and
         promote STEM throughout. 
   heading: The StratoBooster Story
   intro: >-
