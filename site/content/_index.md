@@ -41,18 +41,7 @@ ourStory:
     Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
     University. During their 2nd year they became involved in a project now
     called TU2Space.
-ourTeam:
-  - about: ''
-    avatar: ''
-    name: ''
-    role: ''
-  - about: ''
-    avatar: ''
-    name: ''
-    role: ''
-  - about: ''
-    name: ''
-    role: ''
+ourTeam: []
 whyStrato:
   heading: Why StratoBooster
   reasons:
