@@ -63,7 +63,29 @@ ourStory:
     Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
     University. During their 2nd year they became involved in a project now
     called TU2Space.
-ourTeam: []
+ourTeam:
+  - about: >-
+      Andrew is a co-founder of StratoBooster Ltd and graduate with a 1st Class
+      (Hons) in Aerospace Engineering from Teesside University. Andrew works as
+      a Student Ambassador for the university, working with the external
+      partners hosting events, engaging with local schools and the community. He
+      is also a STEM ambassador and enjoys promoting STEM related education in
+      the younger generation to inspire our future scientists and engineers. He
+      enjoys volunteering and helping others and has spent time abroad providing
+      humanitarian assistance and support to those in need. Andrew has held a
+      Private Pilot's Licence (PPL) since 2012 and enjoys most things related to
+      aviation and space.
+    name: Andrew Dunn
+  - about: >-
+      Ben is a co-founder of StratoBooster Ltd and graduate with a 1st Class
+      (Hons) in Aerospace Engineering degree from Teesside University. Ben also
+      works as a student ambassador for the university and has volunteered as a
+      PASS (Peer Assisted Study Session) Leader, assisting engineering students,
+      at Teesside University, with their learning. For the past two years, Ben
+      has been serving in the Royal Auxiliary Air Force as an RAF policeman,
+      which involves air platform and operational security as well as ceremonial
+      duties.
+    name: Ben Massey
 whyStrato:
   heading: Why StratoBooster?
   reasons:
