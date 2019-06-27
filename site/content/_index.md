@@ -75,6 +75,7 @@ ourTeam:
       humanitarian assistance and support to those in need. Andrew has held a
       Private Pilot's Licence (PPL) since 2012 and enjoys most things related to
       aviation and space.
+    avatar: /img/65136856_350570705548137_1466361384575959040_n.jpg
     name: Andrew Dunn
   - about: >-
       Ben is a co-founder of StratoBooster Ltd and graduate with a 1st Class
