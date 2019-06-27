@@ -75,7 +75,7 @@ ourTeam:
       humanitarian assistance and support to those in need. Andrew has held a
       Private Pilot's Licence (PPL) since 2012 and enjoys most things related to
       aviation and space.
-    avatar: /img/65136856_350570705548137_1466361384575959040_n.jpg
+    avatar: /img/65376793_2403002833267797_5590264539812724736_n.jpg
     name: Andrew Dunn
   - about: >-
       Ben is a co-founder of StratoBooster Ltd and graduate with a 1st Class
@@ -86,6 +86,7 @@ ourTeam:
       has been serving in the Royal Auxiliary Air Force as an RAF policeman,
       which involves air platform and operational security as well as ceremonial
       duties.
+    avatar: /img/65136856_350570705548137_1466361384575959040_n.jpg
     name: Ben Massey
 whyStrato:
   heading: Why StratoBooster?
