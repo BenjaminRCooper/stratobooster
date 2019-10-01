@@ -26,9 +26,7 @@ ourStory:
         TU2Space is a student led project within the School of Science
         Engineering and Design at Teesside. The project was initiated by the
         school with the basic concept of developing a small space launch system
-        for a femto-satellites. Andrew and Ben were student project managers of
-        the TU2Space project and have recently co-founded a start-up business,
-        StratoBooster. 
+        for a Nano satellites and small payloads. 
     - ourStoryText: >-
         StratoBooster is focused in the development of a High-altitude Balloon
         launched rocket system, capable in helping organisations and
@@ -60,8 +58,9 @@ ourStory:
         promote STEM throughout. 
   heading: The StratoBooster Story
   intro: >-
-    Andrew Dunn and Ben Massey are Aerospace Engineers from Teesside
-    University. 
+    Andrew Dunn and Ben Massey are Aerospace Engineers from Teesside University.
+    They were project managers of a student project named TU2Space which spun
+    out into StratoBooster
 ourTeam:
   - about: >-
       Andrew is a co-founder of StratoBooster Ltd and graduate with a 1st Class
