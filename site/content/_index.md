@@ -77,13 +77,10 @@ ourTeam:
     name: Andrew Dunn
   - about: >-
       Ben is a co-founder of StratoBooster Ltd and graduate with a 1st Class
-      (Hons) in Aerospace Engineering degree from Teesside University. Ben also
-      works as a student ambassador for the university and has volunteered as a
-      PASS (Peer Assisted Study Session) Leader, assisting engineering students,
-      at Teesside University, with their learning. For the past two years, Ben
-      has been serving in the Royal Auxiliary Air Force as an RAF policeman,
-      which involves air platform and operational security as well as ceremonial
-      duties.
+      (Hons) in Aerospace Engineering degree from Teesside University. For the
+      past three years, Ben has been serving in the Royal Auxiliary Air Force as
+      an RAF policeman, which involves air platform and operational security as
+      well as ceremonial duties.
     avatar: /img/65136856_350570705548137_1466361384575959040_n.jpg
     name: Ben Massey
 whyStrato:
