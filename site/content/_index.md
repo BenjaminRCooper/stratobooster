@@ -1,7 +1,7 @@
 ---
 header:
   button: Watch our video
-  buttonLink: 'https://youtu.be/6Lff2c5Xiw0'
+  buttonLink: 'https://nacue.com/events/online-peoples-vote/434-stratobooster-ltd.html'
   title: >-
     We help organisations and institutions launch their small satellites and
     payloads into space
@@ -60,9 +60,8 @@ ourStory:
         promote STEM throughout. 
   heading: The StratoBooster Story
   intro: >-
-    Andrew Dunn and Ben Massey are Aerospace Engineering students at Teesside
-    University. During their 2nd year they became involved in a project now
-    called TU2Space.
+    Andrew Dunn and Ben Massey are Aerospace Engineers from Teesside
+    University. 
 ourTeam:
   - about: >-
       Andrew is a co-founder of StratoBooster Ltd and graduate with a 1st Class
