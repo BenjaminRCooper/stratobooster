@@ -116,7 +116,7 @@ inPress:
       launch, from the stratosphere, all done from the UK.
 footer:
   buttonLink: 'https://www.youtube.com/watch?v=6Lff2c5Xiw0'
-  buttonText: Watch Our Video
+  buttonText: Watch our video here!
   email: hello@stratobooster.com
 ---
 
