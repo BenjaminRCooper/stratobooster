@@ -1,7 +1,7 @@
 ---
 header:
-  button: Vote for us here!
-  buttonLink: 'https://nacue.com/events/online-peoples-vote/434-stratobooster-ltd.html'
+  button: Watch our video here!
+  buttonLink: 'https://www.youtube.com/watch?v=6Lff2c5Xiw0'
   title: >-
     Helping organisations and institutions launch their small satellites and
     payloads into space
